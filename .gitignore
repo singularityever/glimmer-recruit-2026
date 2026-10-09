@@ -1,0 +1,9 @@
+# 忽略 Jupyter 的检查点文件夹
+.ipynb_checkpoints/
+
+# 忽略虚拟环境（以防万一）
+glimmer/
+
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
